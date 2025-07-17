@@ -1,0 +1,24 @@
+p{
+    display: inline;
+    color: black;
+    
+}
+
+h1{
+    font-family:roboto;
+    border: outset;
+}
+
+ /* mouse over element */
+      :hover{
+ color: tomato;
+
+      }
+   
+.WORK, .APROPOS{
+    text-align: center;
+}
+
+.RESUME{
+    text-align: center;
+}
